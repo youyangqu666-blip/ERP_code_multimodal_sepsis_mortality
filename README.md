@@ -71,7 +71,7 @@ Internet access is therefore required on first use unless the model is already a
 
 ## Setup
 
-The notebooks were prepared using **Python 3.13.15**.
+The notebooks were run using Python 3.13.x. Local preprocessing was tested with Python **3.13.5**, while the Colab environment used for GPU-based modelling reported Python 3.13.15.
 
 They can be run in any Python environment that supports `.ipynb` notebooks, for example:
 
