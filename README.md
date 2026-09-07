@@ -2,7 +2,7 @@
 
 Multimodal deep learning (LSTM + ClinicalBERT with cross-attention fusion) for post-24-hour in-hospital mortality prediction in a MIMIC-III sepsis cohort. MSc Data Science Extended Research Project.
 
-This repository contains the code, notebooks, configuration files and documentation required to reproduce the analyses reported in the dissertation.
+This repository contains the code, notebooks, configuration files and documentation required to reproduce the analyses reported in the report.
 
 No MIMIC-III patient-level data are included in this repository. Restricted source data must be obtained separately from PhysioNet by an authorised user.
 
