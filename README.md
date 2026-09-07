@@ -156,6 +156,8 @@ This allows the same code to run without hard-coded user-specific paths.
 
 ## How to run
 
+Before running anything, make sure `config.py` (in `notebooks/`) points to your data (see *Data directory configuration* above).
+
 The notebooks read source or intermediate files from `DATA_DIR` and write generated intermediate files back to the same directory.
 
 The recommended execution order is:
