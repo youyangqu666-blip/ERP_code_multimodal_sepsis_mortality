@@ -1,4 +1,5 @@
-# ERP_code_multimodal_sepsis_mortality
+# ERP_code_multimodal_sepsis_mortality 
+### Technical Appendix - MSc Data Science Extended Research Project
 
 Multimodal deep learning (LSTM + ClinicalBERT with cross-attention fusion) for post-24-hour in-hospital mortality prediction in a MIMIC-III sepsis cohort. MSc Data Science Extended Research Project.
 
