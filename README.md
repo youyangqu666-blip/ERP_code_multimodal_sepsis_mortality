@@ -53,6 +53,7 @@ Path within that repository:
 `mimic3benchmark/resources/itemid_to_variable_map.csv`
 
 Download this file separately and place it in the same `DATA_DIR` as the MIMIC-III source tables.
+
 **Note**: the notebook filenames use "17" after the mimic3-benchmarks 17-variable set that the extraction starts from. Capillary refill rate is excluded (effectively unrecorded in this cohort), leaving the 16 variables used for modelling and reported in the study (see Table 4.3 in the report).
 
 ### Angus sepsis definition
