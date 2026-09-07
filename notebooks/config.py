@@ -9,3 +9,6 @@ the line below or by setting the ERP_DATA_DIR environment variable.
 import os
 
 DATA_DIR = os.environ.get("ERP_DATA_DIR", "./data")
+
+def data_path(name):
+    return os.path.join(DATA_DIR, name)
